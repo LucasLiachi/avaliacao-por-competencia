@@ -4,7 +4,7 @@
 
 Durante meu período acadêmico no curso de Gestão da Qualidade da UFPR tive a oportunidade de participar, a convite do Professor Jose Elmar Feger, para um programa de extensão chamado "Construindo Saberes com o Uso de Tecnologias" em que participei apoiando alunos do curso de Tecnologia e Desenvolvimento de Sistemas, na ministração de cursos de computação e internet para escolas públicas. Não fiquei na linha de frente durante as aulas, mas atuei no 'backoffice' planejando com os instrutores uma forma de avaliarmos o desempenho das aulas identificando a competência gerada. Foram 2 anos construindo a forma de avaliação e identificando os resultados, para no 3° ano ter a chance de apresentá-lo no 8º Congresso Brasileiro de Extensão Universitária.
 
-## Download para material:
+## Download do material:
 [FerramentaPlanilha - Avaliação por Competência](https://github.com/LucasLiachi/avaliacao-por-competencia/raw/main/FerramentaPlanilha%20-%20Avalia%C3%A7%C3%A3o%20por%20Compet%C3%AAncia.xlsx)  
 
 ## Link para Slides:
