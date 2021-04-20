@@ -1,0 +1,2 @@
+## Repositorio de arquivos para o artigo disponível no Linked-In:
+['Como avaliar o valor gerado por um treinamento através da avaliação por competências [aplicado com PDCA]'] (https://www.linkedin.com/pulse/como-avaliar-o-valor-gerado-por-um-treinamento-atrav%25C3%25A9s-lucas-liachi/?trackingId=ex%2BWlMyJSkuqE%2BAXJK1azw%3D%3D)
